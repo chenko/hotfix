@@ -1,4 +1,4 @@
 aaa
 bbb
-bug line ---
+++ Fixbug ++ bug line ---
 ddd
