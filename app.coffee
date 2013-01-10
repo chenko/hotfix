@@ -1,4 +1,4 @@
 aaa
 bbb
-++ Fixbug ++ bug line ---
+++++ Just fix this line of bug
 ddd
